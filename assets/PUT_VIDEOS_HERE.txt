@@ -1,0 +1,1 @@
+Place birthday videos in this folder, then add <video> elements to index.html as described in README.txt.

@@ -1,0 +1,1 @@
+Put ONLY the new memory photos here. Then add them to memoryData in index.html.
